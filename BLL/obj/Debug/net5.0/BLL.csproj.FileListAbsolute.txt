@@ -1,0 +1,15 @@
+H:\C#programs\kianapi\BLL\bin\Debug\net5.0\BLL.deps.json
+H:\C#programs\kianapi\BLL\bin\Debug\net5.0\BLL.dll
+H:\C#programs\kianapi\BLL\bin\Debug\net5.0\BLL.pdb
+H:\C#programs\kianapi\BLL\bin\Debug\net5.0\DAL.dll
+H:\C#programs\kianapi\BLL\bin\Debug\net5.0\DAL.pdb
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.dll
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\refint\BLL.dll
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\BLL.pdb
+H:\C#programs\kianapi\BLL\obj\Debug\net5.0\ref\BLL.dll
